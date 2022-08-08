@@ -1,6 +1,6 @@
 # Git Repositories App
 
-App Android para Lista os Repositórios do GitHub
+App Android para Listar Repositórios do GitHub
  
 App criado como desafio de projeto do Bootcamp android (Kotlin) ministrado pela DIO - Digital Innovation One
 
